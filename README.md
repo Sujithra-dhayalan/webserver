@@ -62,9 +62,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-###Server output
+### Server output
 ![serverop](https://user-images.githubusercontent.com/115523950/228555128-45c80375-33c3-4866-8154-cdc92ec4873e.jpg)
-###Client output
+### Client output
 ![clientop](https://user-images.githubusercontent.com/115523950/228555263-dbd3bc28-4c67-4b52-bf06-33d24f891b4d.jpg)
 
 
